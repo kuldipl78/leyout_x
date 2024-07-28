@@ -1,0 +1,9 @@
+.configuration-controller {
+  padding: 20px;
+  background-color: #e2e8f0;
+  margin-bottom: 20px;
+}
+
+.configuration-controller div {
+  margin-bottom: 10px;
+}

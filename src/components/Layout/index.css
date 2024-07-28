@@ -1,0 +1,19 @@
+.layout {
+  padding: 20px;
+  background-color: #cbd5e1;
+}
+
+.layout .content {
+  background-color: #64748b;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.layout .left-navbar,
+.layout .right-navbar {
+  background-color: #475569;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+}
